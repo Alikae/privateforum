@@ -1,0 +1,5 @@
+<%= form_tag("/gossips", method: "post") do %>
+  <%= label_tag(:content, "Content:") %>
+  <%= text_field_tag(:content) %>
+  <%= submit_tag("Submit") %>
+<% end %>
