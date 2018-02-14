@@ -13,6 +13,11 @@ gem 'jbuilder',     '2.7.0'
 group :development, :test do
   gem 'sqlite3', '1.3.13'
   gem 'byebug',  '9.0.6', platform: :mri
+  gem 'rspec-rails', '~> 3.5'
+  gem 'guard-rspec', require: false
+  gem 'factory_bot_rails'
+  gem 'database_cleaner'
+  gem 'capybara'
 end
 
 group :development do
@@ -27,3 +32,4 @@ group :production do
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'simplecov', require: false, group: :test

@@ -1,0 +1,73 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/alikae/prog/semaine6jour2/privateforum/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/alikae/prog/semaine6jour2/privateforum/app/controllers/gossips_controller.rb": [
+        1,
+        1,
+        3,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null
+      ],
+      "/home/alikae/prog/semaine6jour2/privateforum/app/controllers/application_controller.rb": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/home/alikae/prog/semaine6jour2/privateforum/app/models/gossip.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1518574218
+  }
+}
